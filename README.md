@@ -93,11 +93,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nriccar&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nriccar&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nriccar&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
