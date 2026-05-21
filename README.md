@@ -93,18 +93,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nriccar&style=for-the-badge&color=0A0A0A&label=PROFILE+VIEWS" alt="Profile views"/>
-  <a href="https://github.com/nriccar?tab=repositories">
-    <img src="https://img.shields.io/github/followers/nriccar?style=for-the-badge&color=0A0A0A&logo=github&label=Followers" alt="Followers"/>
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nriccar&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nriccar&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://YOUR-INSTANCE.vercel.app/api?username=nriccar&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=nriccar&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
-</p>
-<p align="center">
-  <a href="https://github.com/nriccar">See my repositories →</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nriccar&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
 ---
